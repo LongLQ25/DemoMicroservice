@@ -1,0 +1,1213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitPrivate\\NameBE\\NameMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\extensions\\configureoptionsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\extensions\\configureoptionsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\extensions\\configureserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\extensions\\configureserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\extensions\\configuredbcontextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\extensions\\configuredbcontextextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.webapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:services\\authservice\\authservice.webapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\persistence\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\persistence\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\authservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\authservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:services\\authservice\\authservice.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:services\\authservice\\authservice.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\options\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\options\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\extensions\\configurejwtextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\extensions\\configurejwtextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.webapi\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:services\\authservice\\authservice.webapi\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.webapi\\authservice.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:services\\authservice\\authservice.webapi\\authservice.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.webapi\\middlewares\\validationexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:services\\authservice\\authservice.webapi\\middlewares\\validationexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.webapi\\extensions\\controllerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:services\\authservice\\authservice.webapi\\extensions\\controllerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.webapi\\extensions\\configureswaggerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:services\\authservice\\authservice.webapi\\extensions\\configureswaggerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.webapi\\extensions\\configurecorsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:services\\authservice\\authservice.webapi\\extensions\\configurecorsextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.webapi\\authservice.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:services\\authservice\\authservice.webapi\\authservice.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.webapi\\authservice.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0B704AC-CDE2-492F-87DE-E42463A8A96C}|Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj|solutionrelative:services\\authservice\\authservice.webapi\\authservice.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.shared\\utils\\stringutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|solutionrelative:services\\authservice\\authservice.shared\\utils\\stringutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\usecases\\implementations\\auth\\authenticationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\usecases\\implementations\\auth\\authenticationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\usecases\\implementations\\user\\userusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\usecases\\implementations\\user\\userusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\usecases\\interfaces\\auth\\iauthenticationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\usecases\\interfaces\\auth\\iauthenticationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\usecases\\interfaces\\user\\iuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\usecases\\interfaces\\user\\iuserusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\models\\requests\\user\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\models\\requests\\user\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\models\\responses\\user\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\models\\responses\\user\\getuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\models\\responses\\user\\getuserprofileresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\models\\responses\\user\\getuserprofileresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\models\\requests\\user\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\models\\requests\\user\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\models\\requests\\user\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\models\\requests\\user\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\models\\requests\\auth\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\models\\requests\\auth\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\models\\requests\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\models\\requests\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\models\\requests\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\models\\requests\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\models\\requests\\auth\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\models\\requests\\auth\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\validators\\auth\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\validators\\auth\\loginrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\validators\\auth\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\validators\\auth\\registerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\models\\responses\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\models\\responses\\auth\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\options\\redisoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\options\\redisoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\options\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\options\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\options\\databaseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\options\\databaseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\authservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\authservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.infrastructure\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9F788E-AF88-4706-92BB-0C73FE5B8A81}|Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj|solutionrelative:services\\authservice\\authservice.infrastructure\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.application\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F69876B-86A9-4AEB-A12D-6F6CC1155ED4}|Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj|solutionrelative:services\\authservice\\authservice.application\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.shared\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|solutionrelative:services\\authservice\\authservice.shared\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.shared\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|solutionrelative:services\\authservice\\authservice.shared\\common\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.shared\\common\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|solutionrelative:services\\authservice\\authservice.shared\\common\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.shared\\common\\pagingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|solutionrelative:services\\authservice\\authservice.shared\\common\\pagingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.shared\\common\\pagingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|solutionrelative:services\\authservice\\authservice.shared\\common\\pagingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.shared\\common\\messageid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|solutionrelative:services\\authservice\\authservice.shared\\common\\messageid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.shared\\common\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|solutionrelative:services\\authservice\\authservice.shared\\common\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.shared\\common\\detailerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|solutionrelative:services\\authservice\\authservice.shared\\common\\detailerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D7AD34-3A4B-4AB8-BFA5-38370F24669F}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.domain\\authservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5D7AD34-3A4B-4AB8-BFA5-38370F24669F}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|solutionrelative:services\\authservice\\authservice.domain\\authservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D7AD34-3A4B-4AB8-BFA5-38370F24669F}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D7AD34-3A4B-4AB8-BFA5-38370F24669F}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|solutionrelative:services\\authservice\\authservice.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D7AD34-3A4B-4AB8-BFA5-38370F24669F}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D7AD34-3A4B-4AB8-BFA5-38370F24669F}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|solutionrelative:services\\authservice\\authservice.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D7AD34-3A4B-4AB8-BFA5-38370F24669F}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D7AD34-3A4B-4AB8-BFA5-38370F24669F}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|solutionrelative:services\\authservice\\authservice.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D7AD34-3A4B-4AB8-BFA5-38370F24669F}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.domain\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D7AD34-3A4B-4AB8-BFA5-38370F24669F}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|solutionrelative:services\\authservice\\authservice.domain\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D7AD34-3A4B-4AB8-BFA5-38370F24669F}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.domain\\base\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D7AD34-3A4B-4AB8-BFA5-38370F24669F}|Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj|solutionrelative:services\\authservice\\authservice.domain\\base\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB016739-3F03-402A-B506-E51F75AD22C5}|BuildingBlocks\\EventBus\\EventBus.csproj|d:\\gitprivate\\namebe\\namemicroservices\\buildingblocks\\eventbus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB016739-3F03-402A-B506-E51F75AD22C5}|BuildingBlocks\\EventBus\\EventBus.csproj|solutionrelative:buildingblocks\\eventbus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D618BE-8490-41C8-B644-72B6DA90E144}|Services\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\notificationservice\\notificationservice.infrastructure\\notificationservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58D618BE-8490-41C8-B644-72B6DA90E144}|Services\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj|solutionrelative:services\\notificationservice\\notificationservice.infrastructure\\notificationservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EADB8B90-9FF2-483D-A2DF-41F073052B90}|Services\\NotificationService\\NotificationService.Application\\NotificationService.Application.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\notificationservice\\notificationservice.application\\notificationservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EADB8B90-9FF2-483D-A2DF-41F073052B90}|Services\\NotificationService\\NotificationService.Application\\NotificationService.Application.csproj|solutionrelative:services\\notificationservice\\notificationservice.application\\notificationservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1922D90-91F4-4152-863F-2CC68C7F35DE}|Services\\NotificationService\\NotificationService.WebAPI\\NotificationService.WebAPI.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\notificationservice\\notificationservice.webapi\\notificationservice.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1922D90-91F4-4152-863F-2CC68C7F35DE}|Services\\NotificationService\\NotificationService.WebAPI\\NotificationService.WebAPI.csproj|solutionrelative:services\\notificationservice\\notificationservice.webapi\\notificationservice.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D618BE-8490-41C8-B644-72B6DA90E144}|Services\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\notificationservice\\notificationservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D618BE-8490-41C8-B644-72B6DA90E144}|Services\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj|solutionrelative:services\\notificationservice\\notificationservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8423B66F-3C0C-4C55-8344-5B0E8B796EDE}|Services\\NotificationService\\NotificationService.Domain\\NotificationService.Domain.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\notificationservice\\notificationservice.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8423B66F-3C0C-4C55-8344-5B0E8B796EDE}|Services\\NotificationService\\NotificationService.Domain\\NotificationService.Domain.csproj|solutionrelative:services\\notificationservice\\notificationservice.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|d:\\gitprivate\\namebe\\namemicroservices\\services\\authservice\\authservice.shared\\authservice.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0C4278C-B188-4CE3-8B6F-EB957ED11C09}|Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj|solutionrelative:services\\authservice\\authservice.shared\\authservice.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigureDbContextExtension.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureDbContextExtension.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureDbContextExtension.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureDbContextExtension.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureDbContextExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:30:20.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.WebAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.WebAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwBwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:53:34.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigureOptionsExtension.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureOptionsExtension.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureOptionsExtension.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureOptionsExtension.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureOptionsExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:30:57.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigureServiceExtension.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureServiceExtension.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureServiceExtension.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureServiceExtension.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureServiceExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:31:17.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:35:44.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Persistence\\DBContext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Persistence\\DBContext\\AppDBContext.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Persistence\\DBContext\\AppDBContext.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Persistence\\DBContext\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:54:45.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\AuthService.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T09:18:42.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.WebAPI\\appsettings.json",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-06T11:54:43.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.WebAPI\\Program.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Program.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.WebAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:46:42.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Extensions\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Extensions\\DependencyInjection.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Extensions\\DependencyInjection.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Extensions\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:26:46.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Extensions\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.WebAPI\\Extensions\\DependencyInjection.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Extensions\\DependencyInjection.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.WebAPI\\Extensions\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:50:18.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:34:40.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Services\\JwtService.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Services\\JwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:35:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Options\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Options\\JwtSettings.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Options\\JwtSettings.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Options\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:10:45.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConfigureJwtExtension.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureJwtExtension.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureJwtExtension.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureJwtExtension.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Extensions\\ConfigureJwtExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:30:38.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthService.WebAPI.http",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.http",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.http",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.http",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-06T11:50:36.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ValidationExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Middlewares\\ValidationExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.WebAPI\\Middlewares\\ValidationExceptionMiddleware.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Middlewares\\ValidationExceptionMiddleware.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.WebAPI\\Middlewares\\ValidationExceptionMiddleware.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:50:52.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ControllerExtensions.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Extensions\\ControllerExtensions.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.WebAPI\\Extensions\\ControllerExtensions.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Extensions\\ControllerExtensions.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.WebAPI\\Extensions\\ControllerExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:50:09.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConfigureSwaggerExtension.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Extensions\\ConfigureSwaggerExtension.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.WebAPI\\Extensions\\ConfigureSwaggerExtension.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Extensions\\ConfigureSwaggerExtension.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.WebAPI\\Extensions\\ConfigureSwaggerExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:49:09.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConfigureCorsExtension.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Extensions\\ConfigureCorsExtension.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.WebAPI\\Extensions\\ConfigureCorsExtension.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\Extensions\\ConfigureCorsExtension.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.WebAPI\\Extensions\\ConfigureCorsExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:48:32.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthService.WebAPI",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T11:47:04.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StringUtil.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Utils\\StringUtil.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Shared\\Utils\\StringUtil.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Utils\\StringUtil.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Shared\\Utils\\StringUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:44:10.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserUseCase.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\UseCases\\Implementations\\User\\UserUseCase.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\UseCases\\Implementations\\User\\UserUseCase.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\UseCases\\Implementations\\User\\UserUseCase.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\UseCases\\Implementations\\User\\UserUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:40:01.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserUseCase.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\UseCases\\Interfaces\\User\\IUserUseCase.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\UseCases\\Interfaces\\User\\IUserUseCase.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\UseCases\\Interfaces\\User\\IUserUseCase.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\UseCases\\Interfaces\\User\\IUserUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:38:53.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAuthenticationUseCase.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\UseCases\\Interfaces\\Auth\\IAuthenticationUseCase.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\UseCases\\Interfaces\\Auth\\IAuthenticationUseCase.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\UseCases\\Interfaces\\Auth\\IAuthenticationUseCase.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\UseCases\\Interfaces\\Auth\\IAuthenticationUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:47:01.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthenticationUseCase.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\UseCases\\Implementations\\Auth\\AuthenticationUseCase.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\UseCases\\Implementations\\Auth\\AuthenticationUseCase.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\UseCases\\Implementations\\Auth\\AuthenticationUseCase.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\UseCases\\Implementations\\Auth\\AuthenticationUseCase.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAgwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:46:25.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthService.WebAPI.csproj",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.WebAPI\\AuthService.WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T09:19:06.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\User\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\User\\CreateUserRequest.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\User\\CreateUserRequest.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\User\\CreateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:39:22.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetUserResponse.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Responses\\User\\GetUserResponse.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Models\\Responses\\User\\GetUserResponse.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Responses\\User\\GetUserResponse.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Models\\Responses\\User\\GetUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:42:46.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetUserProfileResponse.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Responses\\User\\GetUserProfileResponse.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Models\\Responses\\User\\GetUserProfileResponse.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Responses\\User\\GetUserProfileResponse.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Models\\Responses\\User\\GetUserProfileResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:42:05.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\User\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\User\\UpdateUserRequest.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\User\\UpdateUserRequest.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\User\\UpdateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:39:28.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\User\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\User\\ChangePasswordRequest.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\User\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\User\\ChangePasswordRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:39:09.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\LoginRequest.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:43:43.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ForgotPasswordRequest.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\ForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\ForgotPasswordRequest.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\ForgotPasswordRequest.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\ForgotPasswordRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:43:35.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\RegisterRequest.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:43:50.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TokenRequest.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\TokenRequest.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\TokenRequest.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\TokenRequest.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Models\\Requests\\Auth\\TokenRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:43:56.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginRequestValidator.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Validators\\Auth\\LoginRequestValidator.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Validators\\Auth\\LoginRequestValidator.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Validators\\Auth\\LoginRequestValidator.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Validators\\Auth\\LoginRequestValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:37:42.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterRequestValidator.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Validators\\Auth\\RegisterRequestValidator.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Validators\\Auth\\RegisterRequestValidator.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Validators\\Auth\\RegisterRequestValidator.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Validators\\Auth\\RegisterRequestValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:38:01.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Responses\\Auth\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Models\\Responses\\Auth\\TokenResponse.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Models\\Responses\\Auth\\TokenResponse.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Models\\Responses\\Auth\\TokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:41:54.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DatabaseOptions.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Options\\DatabaseOptions.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Options\\DatabaseOptions.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Options\\DatabaseOptions.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Options\\DatabaseOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:10:35.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Options\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Options\\EmailSettings.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Options\\EmailSettings.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Options\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:10:42.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RedisOptions.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Options\\RedisOptions.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Options\\RedisOptions.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Options\\RedisOptions.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Options\\RedisOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:12:03.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Services\\IJwtService.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Services\\IJwtService.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Services\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:33:39.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Services\\IEmailService.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Services\\IEmailService.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Services\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:33:30.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:24:11.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:23:55.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:14:35.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:14:05.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuthService.Application.csproj",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Application\\AuthService.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T09:17:25.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PagingResponse.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\PagingResponse.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Shared\\Common\\PagingResponse.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\PagingResponse.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Shared\\Common\\PagingResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:09:05.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PagingRequest.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\PagingRequest.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Shared\\Common\\PagingRequest.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\PagingRequest.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Shared\\Common\\PagingRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:09:01.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Enums\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Shared\\Enums\\RoleEnum.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Enums\\RoleEnum.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Shared\\Enums\\RoleEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:00:38.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MessageId.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\MessageId.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Shared\\Common\\MessageId.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\MessageId.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Shared\\Common\\MessageId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:08:58.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\Message.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Shared\\Common\\Message.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\Message.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Shared\\Common\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:08:53.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DetailError.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\DetailError.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Shared\\Common\\DetailError.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\DetailError.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Shared\\Common\\DetailError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:08:47.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Shared\\Common\\ApiResponse.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\ApiResponse.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Shared\\Common\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:08:43.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ApiRequest.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\ApiRequest.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Shared\\Common\\ApiRequest.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\Common\\ApiRequest.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Shared\\Common\\ApiRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:08:22.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Domain\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Domain\\Base\\BaseEntity.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Domain\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Domain\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:36:23.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\BuildingBlocks\\EventBus\\Class1.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\EventBus\\Class1.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\BuildingBlocks\\EventBus\\Class1.cs",
+              "RelativeToolTip": "BuildingBlocks\\EventBus\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:26:26.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AuthService.Domain.csproj",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Domain\\AuthService.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T09:22:56.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IBaseEntity.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Domain\\Base\\IBaseEntity.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Domain\\Base\\IBaseEntity.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Domain\\Base\\IBaseEntity.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Domain\\Base\\IBaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:36:45.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Domain\\Entities\\Role.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Domain\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:39:00.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:40:01.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:40:24.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "NotificationService.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Services\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
+              "RelativeToolTip": "Services\\NotificationService\\NotificationService.Infrastructure\\NotificationService.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T09:22:58.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "NotificationService.Application.csproj",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\NotificationService\\NotificationService.Application\\NotificationService.Application.csproj",
+              "RelativeDocumentMoniker": "Services\\NotificationService\\NotificationService.Application\\NotificationService.Application.csproj",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\NotificationService\\NotificationService.Application\\NotificationService.Application.csproj",
+              "RelativeToolTip": "Services\\NotificationService\\NotificationService.Application\\NotificationService.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T09:22:40.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "NotificationService.WebAPI.csproj",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\NotificationService\\NotificationService.WebAPI\\NotificationService.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Services\\NotificationService\\NotificationService.WebAPI\\NotificationService.WebAPI.csproj",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\NotificationService\\NotificationService.WebAPI\\NotificationService.WebAPI.csproj",
+              "RelativeToolTip": "Services\\NotificationService\\NotificationService.WebAPI\\NotificationService.WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T09:24:02.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\NotificationService\\NotificationService.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationService\\NotificationService.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\NotificationService\\NotificationService.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Services\\NotificationService\\NotificationService.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:22:33.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\NotificationService\\NotificationService.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationService\\NotificationService.Domain\\Class1.cs",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\NotificationService\\NotificationService.Domain\\Class1.cs",
+              "RelativeToolTip": "Services\\NotificationService\\NotificationService.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:22:16.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AuthService.Shared.csproj",
+              "DocumentMoniker": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj",
+              "RelativeDocumentMoniker": "Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj",
+              "ToolTip": "D:\\GitPrivate\\NameBE\\NameMicroservices\\Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj",
+              "RelativeToolTip": "Services\\AuthService\\AuthService.Shared\\AuthService.Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T09:19:01.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
