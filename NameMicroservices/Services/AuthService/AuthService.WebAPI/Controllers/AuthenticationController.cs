@@ -6,7 +6,7 @@ using AuthService.Application.Models.Responses.Auth;
 using AuthService.Application.UseCases.Interfaces.Auth;
 using AuthService.Shared.Common;
 
-namespace ReadNest.WebAPI.Controllers
+namespace AuthService.WebAPI.Controllers
 {
     [ApiController]
     [Route("api/v1/auth")]
@@ -59,5 +59,15 @@ namespace ReadNest.WebAPI.Controllers
             if (response.Success) return Ok(response);
             return BadRequest(response);
         }
+
+        [HttpPost("google-login")]
+        [ProducesResponseType(typeof(ApiResponse<TokenResponse>), (int)HttpStatusCode.OK)]
+        public async Task<IActionResult> GoogleLogin([FromBody] IdTokenRequest request)
+        {
+            var response = await _authUseCase.GoogleLoginAsync(request);
+            return Ok(response);
+        }
+
+
     }
 }

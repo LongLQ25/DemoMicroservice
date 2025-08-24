@@ -10,5 +10,7 @@ namespace AuthService.Application.Repositories
         Task<User?> GetByUserIdAsync(Guid userId);
         Task<User> GetByUserNameAsync(string userName);
         Task<IEnumerable<User>> GetAllUsersWithRoleUserAsync();
+        Task<User?> GetByEmailAsync(string email);
+
     }
 }

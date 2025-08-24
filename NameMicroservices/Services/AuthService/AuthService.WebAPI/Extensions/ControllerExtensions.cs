@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using AuthService.Shared.Common;
 
-namespace ReadNest.WebAPI.Extensions
+namespace AuthService.WebAPI.Extensions
 {
     public static class ControllerExtensions
     {

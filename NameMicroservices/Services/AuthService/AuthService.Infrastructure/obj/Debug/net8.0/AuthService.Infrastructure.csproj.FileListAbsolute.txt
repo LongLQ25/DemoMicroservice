@@ -1,8 +1,3 @@
-D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.csproj.AssemblyReference.cache
-D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.AssemblyInfoInputs.cache
-D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.AssemblyInfo.cs
-D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.csproj.CoreCompileInputs.cache
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\bin\Debug\net8.0\AuthService.Infrastructure.deps.json
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\bin\Debug\net8.0\AuthService.Infrastructure.runtimeconfig.json
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\bin\Debug\net8.0\AuthService.Infrastructure.dll
@@ -10,9 +5,17 @@ D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastr
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\bin\Debug\net8.0\AuthService.Application.dll
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\bin\Debug\net8.0\AuthService.Domain.dll
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\bin\Debug\net8.0\AuthService.Shared.dll
+D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\bin\Debug\net8.0\EventBus.dll
+D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\bin\Debug\net8.0\EventBus.pdb
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\bin\Debug\net8.0\AuthService.Application.pdb
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\bin\Debug\net8.0\AuthService.Domain.pdb
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\bin\Debug\net8.0\AuthService.Shared.pdb
+D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.csproj.AssemblyReference.cache
+D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.AssemblyInfoInputs.cache
+D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.AssemblyInfo.cs
+D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.sourcelink.json
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\AuthServ.03063B79.Up2Date
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\AuthService.Infrastructure.dll
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Infrastructure\obj\Debug\net8.0\refint\AuthService.Infrastructure.dll

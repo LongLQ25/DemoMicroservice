@@ -10,8 +10,6 @@ namespace AuthService.Infrastructure.Extensions
         {
             _ = services.Configure<JwtSettings>(configuration.GetSection(nameof(JwtSettings)));
             _ = services.Configure<DatabaseOptions>(configuration.GetSection(nameof(DatabaseOptions)));
-            _ = services.Configure<RedisOptions>(configuration.GetSection(nameof(RedisOptions)));
-            _ = services.Configure<EmailSettings>(configuration.GetSection(nameof(EmailSettings)));
 
             return services;
         }

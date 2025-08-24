@@ -8,6 +8,7 @@ D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Domain\o
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfoInputs.cache
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfo.cs
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.csproj.CoreCompileInputs.cache
+D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.sourcelink.json
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Domain\obj\Debug\net8.0\AuthServ.85EED38A.Up2Date
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.dll
 D:\GitPrivate\NameBE\NameMicroservices\Services\AuthService\AuthService.Domain\obj\Debug\net8.0\refint\AuthService.Domain.dll

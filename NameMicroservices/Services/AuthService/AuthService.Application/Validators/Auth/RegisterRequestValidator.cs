@@ -2,7 +2,7 @@
 using AuthService.Application.Models.Requests.Auth;
 using AuthService.Application.Repositories;
 
-namespace ReadNest.Application.Validators.Auth
+namespace AuthService.Application.Validators.Auth
 {
     public class RegisterRequestValidator : AbstractValidator<RegisterRequest>
     {

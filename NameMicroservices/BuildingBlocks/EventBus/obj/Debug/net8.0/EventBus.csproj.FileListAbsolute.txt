@@ -1,0 +1,13 @@
+D:\GitPrivate\NameBE\NameMicroservices\BuildingBlocks\EventBus\bin\Debug\net8.0\EventBus.deps.json
+D:\GitPrivate\NameBE\NameMicroservices\BuildingBlocks\EventBus\bin\Debug\net8.0\EventBus.dll
+D:\GitPrivate\NameBE\NameMicroservices\BuildingBlocks\EventBus\bin\Debug\net8.0\EventBus.pdb
+D:\GitPrivate\NameBE\NameMicroservices\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.csproj.AssemblyReference.cache
+D:\GitPrivate\NameBE\NameMicroservices\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitPrivate\NameBE\NameMicroservices\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.AssemblyInfoInputs.cache
+D:\GitPrivate\NameBE\NameMicroservices\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.AssemblyInfo.cs
+D:\GitPrivate\NameBE\NameMicroservices\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.csproj.CoreCompileInputs.cache
+D:\GitPrivate\NameBE\NameMicroservices\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.sourcelink.json
+D:\GitPrivate\NameBE\NameMicroservices\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.dll
+D:\GitPrivate\NameBE\NameMicroservices\BuildingBlocks\EventBus\obj\Debug\net8.0\refint\EventBus.dll
+D:\GitPrivate\NameBE\NameMicroservices\BuildingBlocks\EventBus\obj\Debug\net8.0\EventBus.pdb
+D:\GitPrivate\NameBE\NameMicroservices\BuildingBlocks\EventBus\obj\Debug\net8.0\ref\EventBus.dll

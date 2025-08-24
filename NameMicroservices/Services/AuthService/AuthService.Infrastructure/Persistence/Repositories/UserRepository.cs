@@ -53,5 +53,10 @@ namespace AuthService.Infrastructure.Persistence.Repositories
 
             return user;
         }
+
+        public async Task<User?> GetByEmailAsync(string email)
+        {
+            return await _context.Users.AsNoTracking().FirstOrDefaultAsync(x => x.Email == email && !x.IsDeleted);
+        }
     }
 }

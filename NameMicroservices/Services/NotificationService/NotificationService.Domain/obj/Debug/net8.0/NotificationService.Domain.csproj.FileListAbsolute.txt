@@ -1,0 +1,12 @@
+D:\GitPrivate\NameBE\NameMicroservices\Services\NotificationService\NotificationService.Domain\bin\Debug\net8.0\NotificationService.Domain.deps.json
+D:\GitPrivate\NameBE\NameMicroservices\Services\NotificationService\NotificationService.Domain\bin\Debug\net8.0\NotificationService.Domain.dll
+D:\GitPrivate\NameBE\NameMicroservices\Services\NotificationService\NotificationService.Domain\bin\Debug\net8.0\NotificationService.Domain.pdb
+D:\GitPrivate\NameBE\NameMicroservices\Services\NotificationService\NotificationService.Domain\obj\Debug\net8.0\NotificationService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitPrivate\NameBE\NameMicroservices\Services\NotificationService\NotificationService.Domain\obj\Debug\net8.0\NotificationService.Domain.AssemblyInfoInputs.cache
+D:\GitPrivate\NameBE\NameMicroservices\Services\NotificationService\NotificationService.Domain\obj\Debug\net8.0\NotificationService.Domain.AssemblyInfo.cs
+D:\GitPrivate\NameBE\NameMicroservices\Services\NotificationService\NotificationService.Domain\obj\Debug\net8.0\NotificationService.Domain.csproj.CoreCompileInputs.cache
+D:\GitPrivate\NameBE\NameMicroservices\Services\NotificationService\NotificationService.Domain\obj\Debug\net8.0\NotificationService.Domain.sourcelink.json
+D:\GitPrivate\NameBE\NameMicroservices\Services\NotificationService\NotificationService.Domain\obj\Debug\net8.0\NotificationService.Domain.dll
+D:\GitPrivate\NameBE\NameMicroservices\Services\NotificationService\NotificationService.Domain\obj\Debug\net8.0\refint\NotificationService.Domain.dll
+D:\GitPrivate\NameBE\NameMicroservices\Services\NotificationService\NotificationService.Domain\obj\Debug\net8.0\NotificationService.Domain.pdb
+D:\GitPrivate\NameBE\NameMicroservices\Services\NotificationService\NotificationService.Domain\obj\Debug\net8.0\ref\NotificationService.Domain.dll

@@ -1,7 +1,7 @@
-using AuthService.Application.Extensions;
+﻿using AuthService.Application.Extensions;
 using AuthService.Infrastructure.Extensions;
 using AuthService.WebAPI.Extensions;
-using ReadNest.WebAPI.Middlewares;
+using AuthService.WebAPI.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 

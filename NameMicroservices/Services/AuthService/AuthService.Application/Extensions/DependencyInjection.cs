@@ -1,10 +1,10 @@
 ﻿using AuthService.Application.UseCases.Implementations.Auth;
+using AuthService.Application.UseCases.Implementations.User;
 using AuthService.Application.UseCases.Interfaces.Auth;
 using AuthService.Application.UseCases.Interfaces.User;
+using AuthService.Application.Validators.Auth;
 using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
-using ReadNest.Application.UseCases.Implementations.User;
-using ReadNest.Application.Validators.Auth;
 
 namespace AuthService.Application.Extensions
 {

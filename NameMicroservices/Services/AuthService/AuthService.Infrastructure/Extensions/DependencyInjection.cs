@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using EventBus;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace AuthService.Infrastructure.Extensions
@@ -10,6 +11,7 @@ namespace AuthService.Infrastructure.Extensions
             _ = services.AddConfigureOptions(configuration);
             _ = services.AddCustomDbContext(configuration);
             _ = services.AddCustomJwt(configuration);
+            _ = services.AddEventBus(configuration);
             _ = services.AddServices();
 
             return services;
